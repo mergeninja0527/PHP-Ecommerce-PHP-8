@@ -15,10 +15,10 @@ use fcs\View;
             <ul class="bread-crumb">
                 <li class="has-separator">
                     <i class="ion ion-md-home"></i>
-                    <a href="<?= base_url() ?>">Home</a>
+                    <a href="<?= base_url() ?>">HOME</a>
                 </li>
                 <li class="is-marked">
-                    <a href="#">Detail</a>
+                    <a href="#">DETAIL</a>
                 </li>
             </ul>
         </div>
